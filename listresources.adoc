@@ -122,7 +122,7 @@ TODO
 _Wim Van de Meerssche:_
 
 There is an issue regarding the return value of Renew, in the cases mutliple
-slivers are renewed. See (link TODO)
+slivers are renewed. See https://github.com/wvdemeer/federation-am-api/issues/1
 ====================================================
 
 === Delete
