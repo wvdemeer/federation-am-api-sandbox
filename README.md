@@ -21,3 +21,5 @@ So the typical work flow is:
 - The branch gets merged into the master
 - The document at the official site automatically gets updated
 
+A temporary version of the processed document is at: https://fed4fire-testbeds.ilabt.iminds.be/asciidoc/federation-am-api.html
+
