@@ -16,7 +16,7 @@ out*. The table of content is still in a very preliminary stage.
 [NOTE]
 ====================================================
 _Wim Van de Meerssche:_
-Note blocks like this one, can be used add discussion items
+Note blocks like this one, can be used to add discussion items
 to the document. They are to be removed when the document is finished, but are
 one possible way to discuss the progress inside the document itself, in cases that 
 would be useful, or to mark a place in the document and refer to an issue.
