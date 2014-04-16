@@ -16,7 +16,7 @@ So the typical work flow is:
 - Make your proposed changes
 - Push the branch to github
 - Create a "pull request" (= an issue with an attached branch to merge) on github, explaining what the change is, and why it is needed
-- Discussion follows, in the created issue
+- Discussion follows, in the created issue (mails are sent from updates)
 - At one point, there is consensus
 - The branch gets merged into the master
 - The document at the official site automatically gets updated
